@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-03-21T12:17:44.332750800Z</date>
+  <millis>1711023464332</millis>
+  <nanos>750800</nanos>
+  <sequence>0</sequence>
+  <logger>base.ControlCompuertas</logger>
+  <level>CONFIG</level>
+  <class>base.ControlCompuertas</class>
+  <method>mostrarMenu</method>
+  <thread>1</thread>
+  <message>Configuración hecha.</message>
+</record>
+<record>
+  <date>2024-03-21T12:18:02.772503400Z</date>
+  <millis>1711023482772</millis>
+  <nanos>503400</nanos>
+  <sequence>1</sequence>
+  <logger>base.ControlCompuertas</logger>
+  <level>FINE</level>
+  <class>base.ControlCompuertas</class>
+  <method>mostrarMenu</method>
+  <thread>1</thread>
+  <message>Opcion elegida:1</message>
+</record>
